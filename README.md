@@ -5,4 +5,4 @@
 ### Git links
 
 [A new link]("Google.com")
-Some colors `#0969DA`
+Some colors `#000000`
